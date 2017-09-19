@@ -1,6 +1,6 @@
 <?php
 $myyear=1998;
 $year=2017;
-$age=$y-$m;
+$age=$year-$myyear;
 echo $age;
 ?>
